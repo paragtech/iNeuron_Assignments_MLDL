@@ -1,2 +1,2 @@
 # iNeuron_Assignments
-All the assignments for iNeuron ML&amp;DL batch
+All the assignments for iNeuron MLDL batch.
